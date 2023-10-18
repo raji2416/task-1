@@ -1,0 +1,11 @@
+HTTP/1
+          HTTP is an upper layer network protocol for transmitting data in the form of hypertext HTML document
+          and arbitary data.with this protocol ,the browser accepts data from servers and then displays it in a 
+          user friendly form.the browser also sends user data to the server via HTTP
+ HTTP/2
+                  
+        HTTP/2 (HTTP/2.0) is the second version of the HTTP network protocol, based on the SPDY application layer
+         protocol for accessing the web. In the past, websites were simple and did not require much capacity. On
+          modern web resources with high-quality images, JAVA scripts, CSS, flash animations, and other elements, 
+          just one page can weigh about 2 megabytes. With the introduction of new technologies, it became increasingly 
+          difficult for the protocol to handle pages with "heavy" content, which led to their slow loading.         
